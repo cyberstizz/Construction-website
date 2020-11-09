@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+#header{
+  background-color: rgb(18, 18, 87);
+  height: 12vh;
+  width: 100vw;
+}
+
+#images{
+  height: 95vh;
+  width: 100vw;
+  background-image: url('./images/working.jpg');
+  background-size: cover;
+
+}
