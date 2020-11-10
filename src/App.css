@@ -38,13 +38,14 @@
 }
 
 #header{
-  background-color: rgb(18, 18, 87);
+  background-color: white;
   height: 12vh;
   width: 100vw;
+  position: fixed;
 }
 
 #images{
-  height: 95vh;
+  height: 120vh;
   width: 100vw;
   background-image: url('./images/working.jpg');
   background-size: cover;
