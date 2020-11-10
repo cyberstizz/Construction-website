@@ -45,9 +45,21 @@
 }
 
 #images{
-  height: 120vh;
+  height: 150vh;
   width: 100vw;
   background-image: url('./images/working.jpg');
   background-size: cover;
 
+}
+
+#bodytop{
+  height: 150vh;
+  width: 100vw;
+  background-color: white;
+}
+
+#bodymiddle{
+  height: 300vh;
+  width: 100vw;
+  background-color: darkgray;
 }

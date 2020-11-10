@@ -5,12 +5,12 @@ function App() {
   return (
     <div className="app">
       <div id="header">
-
-
-      </div>
+ </div>
       <div id='images'>
 
       </div>
+      <div id='bodytop'></div>
+      <div id='bodymiddle'></div>
 
     </div>
    
