@@ -72,7 +72,7 @@
 #images{
   height: 150vh;
   width: 100vw;
-  background-image: url('./images/working.jpg');
+  background-image: url('./images/painting.jpg');
   background-size: cover;
 
 }
@@ -92,8 +92,9 @@
 #bodybottom{
   height: 50vh;
   width: 100vw;
-  background-image: url('./images/working.jpg');
-  background-size: cover;
+  background-image: url('./images/roofing.jpg');
+  background-size: auto;
+  background-repeat: no-repeat;
   position: fixed;
   position: absolute;
 
