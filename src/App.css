@@ -46,6 +46,16 @@
   position: fixed;
 }
 
+#navbar{
+  position: flex;
+  flex-wrap: row;
+  width: 50vw;
+  height: 8vh;
+  border: solid black;
+  margin-left: 45vw;
+  margin-top: 2vh;
+}
+
 #images{
   height: 150vh;
   width: 100vw;
