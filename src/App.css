@@ -38,6 +38,8 @@
 }
 
 #header{
+  position: flex;
+  flex-direction: row;
   background-color: white;
   height: 12vh;
   width: 100vw;
@@ -62,4 +64,32 @@
   height: 300vh;
   width: 100vw;
   background-color: darkgray;
+}
+
+#bodybottom{
+  height: 50vh;
+  width: 100vw;
+  background-image: url('./images/working.jpg');
+  background-size: cover;
+  position: fixed;
+  position: absolute;
+
+}
+
+#footertop{
+  height: 30vh;
+  width: 100vw;
+  background-color: darkslateblue;
+}
+
+#footermiddle{
+  height: 40vh;
+  width: 100vw;
+  background-color: grey;
+}
+
+#footerbottom{
+  height: 10vh;
+  width: 100vw;
+  background-color: black;
 }
