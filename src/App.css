@@ -46,16 +46,29 @@
   position: fixed;
 }
 
+#namespace{
+  margin-top: 3vh;
+  margin-left: 20vh;
+}
+
+#navbar li{
+  display: inline-flex;
+  margin-left: 2vw;
+}
+
 #navbar{
   position: flex;
-  flex-wrap: row;
+  flex-direction: row;
   width: 50vw;
   height: 8vh;
-  border: solid black;
   margin-left: 45vw;
   margin-top: 2vh;
 }
 
+#navitems{
+  position: flex;
+  flex-direction: row;
+}
 #images{
   height: 150vh;
   width: 100vw;
