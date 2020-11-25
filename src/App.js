@@ -1,6 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
-import React from 'react';
+const css = require('./App.css');
+const React = require('react');
 
 class App extends React.Component{
   constructor(){
