@@ -7,6 +7,8 @@ class App extends React.Component{
   };
   render(){
 
+    const dogs = [clifford, ]
+
 
   return (
     <div className="app">
